@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "ostream": "cpp"
+  },
+  "cSpell.words": [
+    "Megamenu"
+  ],
+  "cSpell.enableFiletypes": [
+    "html"
+  ]
+}
